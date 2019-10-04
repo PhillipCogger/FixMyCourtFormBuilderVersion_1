@@ -8,7 +8,9 @@
     "page.court-name",
     "page.london",
     "page.your-experience",
-    "page.court-reason"
+    "page.court-reason",
+    "page.contact-preference",
+    "page.contact-preference--2"
   ],
   "url": "/"
 }

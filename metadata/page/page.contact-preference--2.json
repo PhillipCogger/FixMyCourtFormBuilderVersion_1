@@ -1,0 +1,27 @@
+{
+  "_id": "page.contact-preference--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact-preference--2--radios.auto_name__11",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.contact-preference--2--radios.auto_name__11--radio.auto_value__15",
+          "_type": "radio",
+          "label": "Email",
+          "value": "auto_value__15"
+        },
+        {
+          "_id": "page.contact-preference--2--radios.auto_name__11--radio.auto_value__16",
+          "_type": "radio",
+          "label": "Phone",
+          "value": "auto_value__16"
+        }
+      ],
+      "legend": "How would you prefer to be contacted?",
+      "name": "auto_name__11"
+    }
+  ],
+  "url": "contact-preference"
+}
