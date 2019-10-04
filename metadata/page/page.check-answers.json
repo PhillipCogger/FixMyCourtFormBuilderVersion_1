@@ -1,0 +1,8 @@
+{
+  "_id": "page.check-answers",
+  "_type": "page.summary",
+  "actionType": "continue",
+  "sendBody": "Send your comments.",
+  "sendHeading": "Send your comments",
+  "url": "check-answers"
+}

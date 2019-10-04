@@ -1,0 +1,8 @@
+{
+  "_id": "page.send-comments",
+  "_type": "page.confirmation",
+  "body": "Anything you have told us will not affect your case and your comments won't be shared with anyone involved in your case.",
+  "heading": "Thank you for your comments",
+  "lede": "You've helped us to improve our service",
+  "url": "send-comments"
+}
