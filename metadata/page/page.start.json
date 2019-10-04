@@ -4,6 +4,8 @@
   "body": "We welcome comments from everyone about how we are doing. If you have something to say about one of our courts this is the place to do it.\r\n\r\nAnything you tell us will not affect your case and your comments won't be shared with anyone involved in your case.",
   "heading": "Contact us about your experience",
   "lede": "",
-  "steps": [],
+  "steps": [
+    "page.court-name"
+  ],
   "url": "/"
 }

@@ -1,0 +1,34 @@
+{
+  "_id": "page.court-name",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.court-name--autocomplete.auto_name__1",
+      "_type": "autocomplete",
+      "items": [
+        {
+          "_id": "page.court-name--autocomplete.auto_name__1--option",
+          "_type": "option",
+          "text": "Basildon County Court",
+          "value": "basildon_county_court"
+        },
+        {
+          "_id": "page.court-name--autocomplete.auto_name__1--option--2",
+          "_type": "option",
+          "text": "Reading County Court",
+          "value": "reading_county_court"
+        },
+        {
+          "_id": "page.court-name--autocomplete.auto_name__1--option--3",
+          "_type": "option",
+          "text": "London County Court",
+          "value": "london_county_court"
+        }
+      ],
+      "label": "Select the court you would like to tell us about",
+      "name": "auto_name__1",
+      "showAllValues": false
+    }
+  ],
+  "url": "court-name"
+}
