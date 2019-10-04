@@ -47,5 +47,10 @@
       "legend": "What do you want to tell us about Reading County Court?"
     }
   ],
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "reading_county_court"
+  },
   "url": "reading"
 }

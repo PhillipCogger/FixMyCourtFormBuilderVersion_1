@@ -5,6 +5,7 @@
     {
       "_id": "page.court-name--autocomplete.auto_name__1",
       "_type": "autocomplete",
+      "hint": "For example, Basildon County Court",
       "items": [
         {
           "_id": "page.court-name--autocomplete.auto_name__1--option",
@@ -25,7 +26,7 @@
           "value": "london_county_court"
         }
       ],
-      "label": "Select the court you would like to tell us about",
+      "label": "Court you would like to tell us about",
       "name": "auto_name__1",
       "showAllValues": false
     }
