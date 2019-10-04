@@ -1,0 +1,51 @@
+{
+  "_id": "page.london",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.london--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.london--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Facilities and buildings",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.london--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Your experience",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.london--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Staff",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.london--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "Security",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.london--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "label": "Information and guidance",
+          "name": "auto_name__6"
+        },
+        {
+          "_id": "page.london--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "label": "Other",
+          "name": "auto_name__7"
+        }
+      ],
+      "legend": "What do you want to tell us about London County Court?"
+    }
+  ],
+  "url": "london"
+}

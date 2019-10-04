@@ -5,7 +5,8 @@
   "heading": "Contact us about your experience",
   "lede": "",
   "steps": [
-    "page.court-name"
+    "page.court-name",
+    "page.london"
   ],
   "url": "/"
 }
