@@ -5,6 +5,8 @@
   "heading": "Contact us about your experience",
   "lede": "",
   "steps": [
+    "page.formal-complaint",
+    "page.make-a-formal-complaint",
     "page.court-name",
     "page.london",
     "page.your-experience",
@@ -12,9 +14,7 @@
     "page.contact-preference",
     "page.contact-preference--2",
     "page.email",
-    "page.phone",
-    "page.formal-complaint",
-    "page.make-a-formal-complaint"
+    "page.phone"
   ],
   "url": "/"
 }
