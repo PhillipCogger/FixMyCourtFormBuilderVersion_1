@@ -10,7 +10,9 @@
     "page.your-experience",
     "page.court-reason",
     "page.contact-preference",
-    "page.contact-preference--2"
+    "page.contact-preference--2",
+    "page.email",
+    "page.phone"
   ],
   "url": "/"
 }

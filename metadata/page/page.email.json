@@ -1,0 +1,19 @@
+{
+  "_id": "page.email",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.email--email.auto_name__10",
+      "_type": "email",
+      "hint": "We'll only use this to contact you about your comments",
+      "label": "Your email address",
+      "name": "auto_name__10"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__11",
+    "operator": "is",
+    "value": "auto_value__15"
+  },
+  "url": "email"
+}
