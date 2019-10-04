@@ -23,6 +23,10 @@
       "name": "auto_name__11"
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "can-we-contact-you",
+    "operator": "is",
+    "value": "contact_yes"
+  },
   "url": "contact-preference"
 }
