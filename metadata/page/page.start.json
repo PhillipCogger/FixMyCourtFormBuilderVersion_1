@@ -12,7 +12,9 @@
     "page.contact-preference",
     "page.contact-preference--2",
     "page.email",
-    "page.phone"
+    "page.phone",
+    "page.formal-complaint",
+    "page.make-a-formal-complaint"
   ],
   "url": "/"
 }
