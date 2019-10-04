@@ -44,13 +44,9 @@
           "name": "auto_name__7"
         }
       ],
-      "legend": "What do you want to tell us about London County Court?"
+      "legend": "What is your feedback about?"
     }
   ],
-  "show": {
-    "identifier": "auto_name__1",
-    "operator": "is",
-    "value": "london_county_court"
-  },
+  "show": true,
   "url": "london"
 }

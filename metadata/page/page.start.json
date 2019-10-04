@@ -7,8 +7,7 @@
   "steps": [
     "page.court-name",
     "page.london",
-    "page.reading",
-    "page.basildon"
+    "page.your-experience"
   ],
   "url": "/"
 }
