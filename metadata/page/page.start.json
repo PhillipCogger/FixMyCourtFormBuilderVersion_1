@@ -6,7 +6,9 @@
   "lede": "",
   "steps": [
     "page.court-name",
-    "page.london"
+    "page.london",
+    "page.reading",
+    "page.basildon"
   ],
   "url": "/"
 }
